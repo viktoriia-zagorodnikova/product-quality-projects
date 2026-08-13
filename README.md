@@ -15,14 +15,6 @@ Featured Projects
 GROUPSI
 QA Automation + Product Quality + UX + Technical BA
 
-PetFriends
-Python API Automation
-
-SCAN-Interfax
-API Testing
-
-GenVolt
-Mobile QA
 
 Independent Product Audits
 UX and product quality analyses
